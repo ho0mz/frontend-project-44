@@ -1,26 +1,25 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "type": "commonjs",
+  "type": "module",
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
-  "description": "[![Actions Status](https://github.com/ho0mz/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ho0mz/frontend-project-44/actions)",
-  "homepage": "https://github.com/ho0mz/frontend-project-44#readme",
-  "bugs": {
-    "url": "https://github.com/ho0mz/frontend-project-44/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ho0mz/frontend-project-44.git"
-  },
-  "license": "ISC",
-  "author": "",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ho0mz/frontend-project-44.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Brain games project for Hexlet",
+  "bugs": {
+    "url": "https://github.com/ho0mz/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/ho0mz/frontend-project-44#readme"
 }
