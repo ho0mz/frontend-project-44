@@ -1,4 +1,4 @@
-import stylistic from '@stylistic/eslint-plugin';
+import stylistic from '@stylistic/eslint-plugin'
 
 export default [
   {
@@ -25,4 +25,4 @@ export default [
       'no-console': 'off',
     },
   },
-];
+]
