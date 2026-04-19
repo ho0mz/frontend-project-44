@@ -7,5 +7,14 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/ho0mz/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ho0mz/frontend-project-44/actions)
 
-## Демонстрация работы игры "Проверка на чётность"
+# Brain Games
+
+## Игры
+
+### 1. Проверка на чётность (brain-even)
+
 [![asciicast](https://asciinema.org/a/17Ph6ATB6hpy6nzQ.svg)](https://asciinema.org/a/17Ph6ATB6hpy6nzQ)
+
+### 2. Калькулятор (brain-calc)
+
+[![asciicast](https://asciinema.org/a/s2vC0hIYkQGhEX2A.svg)](https://asciinema.org/a/s2vC0hIYkQGhEX2A)
