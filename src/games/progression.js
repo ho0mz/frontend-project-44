@@ -17,7 +17,8 @@ const formatProgression = (progression, hiddenIndex) => {
   for (let i = 0; i < progression.length; i += 1) {
     if (i === hiddenIndex) {
       result.push('..');
-    } else {
+    }
+else {
       result.push(progression[i]);
     }
   }
