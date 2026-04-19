@@ -26,3 +26,7 @@
 ### 4. Арифметическая прогрессия (brain-progression)
 
 [![asciicast](https://asciinema.org/a/dboTQZ8sbphx5GPt.svg)](https://asciinema.org/a/dboTQZ8sbphx5GPt)
+
+### 5. Простое число (brain-prime)
+
+[![asciicast](https://asciinema.org/a/4wOwIxE2dFEyhc9o.svg)](https://asciinema.org/a/4wOwIxE2dFEyhc9o)
