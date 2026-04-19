@@ -18,3 +18,7 @@
 ### 2. Калькулятор (brain-calc)
 
 [![asciicast](https://asciinema.org/a/s2vC0hIYkQGhEX2A.svg)](https://asciinema.org/a/s2vC0hIYkQGhEX2A)
+
+### 3. НОД (brain-gcd)
+
+[![asciicast](https://asciinema.org/a/5QasOKMOCKHVg5ll.svg)](https://asciinema.org/a/5QasOKMOCKHVg5ll)
