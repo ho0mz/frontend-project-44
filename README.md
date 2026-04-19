@@ -22,3 +22,7 @@
 ### 3. НОД (brain-gcd)
 
 [![asciicast](https://asciinema.org/a/5QasOKMOCKHVg5ll.svg)](https://asciinema.org/a/5QasOKMOCKHVg5ll)
+
+### 4. Арифметическая прогрессия (brain-progression)
+
+[![asciicast](https://asciinema.org/a/dboTQZ8sbphx5GPt.svg)](https://asciinema.org/a/dboTQZ8sbphx5GPt)
