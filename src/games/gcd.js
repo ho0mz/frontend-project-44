@@ -24,5 +24,3 @@ const generateRound = () => {
 export const runGcdGame = () => {
   runGame(gameDescription, generateRound);
 };
-
-

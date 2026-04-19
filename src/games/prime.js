@@ -22,5 +22,3 @@ const generateRound = () => {
 export const runPrimeGame = () => {
   runGame(gameDescription, generateRound);
 };
-
-

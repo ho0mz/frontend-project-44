@@ -23,5 +23,3 @@ export const runGame = (gameDescription, generateRound) => {
 
   console.log(`Congratulations, ${userName}!`);
 };
-
-

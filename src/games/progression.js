@@ -38,5 +38,3 @@ const generateRound = () => {
 export const runProgressionGame = () => {
   runGame(gameDescription, generateRound);
 };
-
-
