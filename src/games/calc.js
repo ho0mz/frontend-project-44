@@ -30,4 +30,3 @@ const generateRound = () => {
 export const runCalcGame = () => {
   runGame(gameDescription, generateRound);
 };
-
